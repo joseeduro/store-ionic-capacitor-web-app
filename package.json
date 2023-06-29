@@ -1,0 +1,16 @@
+{
+  "name": "entrega2",
+  "version": "1.0.0",
+  "description": "obligatorio2-230826-ORT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoseDuro",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^3.6.0",
+    "@capacitor/cli": "^3.6.0",
+    "@capacitor/core": "^3.6.0"
+  }
+}

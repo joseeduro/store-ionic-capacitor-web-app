@@ -1,0 +1,14 @@
+.listaProducto{
+    height: 160px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+p{
+    font-size: 16px;
+}
+#headerNav{
+    padding-top: 15px;
+}
+#content-favorites{
+    background-color: aqua;
+}

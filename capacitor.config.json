@@ -1,0 +1,6 @@
+{
+  "appId": "com.novalen.app",
+  "appName": "tiendaWebApp",
+  "webDir": "www",
+  "bundledWebRuntime": true
+}
